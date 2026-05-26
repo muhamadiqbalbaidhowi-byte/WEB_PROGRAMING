@@ -1,0 +1,23 @@
+div {
+    background-color: yellow;
+    border: 1px dotted black;
+    border-radius: 10px;
+    padding: 24px;
+    position: static;
+}
+
+p {
+    color: blue;
+}
+
+.relative{
+    position: relative;
+    background-color: red;
+}
+
+.absolute{
+    position: relative;
+    background-color: green;
+    top: 100px;
+    left: 100px;
+}
